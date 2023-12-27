@@ -1,0 +1,24 @@
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.ConsoleRunner.exe.config
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.ConsoleRunner.exe
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.ConsoleRunner.pdb
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\vinyl.TaskPlanner.Domain.Logic.dll
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.Domain.Models.dll
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\vinyl.TaskPlanner.Domain.Logic.pdb
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.Domain.Models.pdb
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.csproj.CopyComplete
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.exe
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.pdb
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.ConsoleRunner.exe.config
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.ConsoleRunner.exe
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.ConsoleRunner.pdb
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.Domain.Logic.dll
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.Domain.Models.dll
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.Domain.Logic.pdb
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\bin\Debug\Vinyl.TaskPlanner.Domain.Models.pdb
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.csproj.CopyComplete
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.exe
+E:\Навчання\Киця\.NET\Vinyl.TaskPlanner (lab.01)\Vinyl.TaskPlanner.ConsoleRunner\obj\Debug\Vinyl.TaskPlanner.ConsoleRunner.pdb
